@@ -54,7 +54,7 @@ deploy-sepolia:
 
 The contract is deployed on the Sepolia testnet. You can view it here:
 
-- [Deployed Contract on Sepolia](<Insert link to your deployed contract>)
+- [Deployed Contract on Sepolia](https://sepolia.etherscan.io/address/0x6bc1ec9dc2c31db5d5eff11426a1eb17f3246655#code)
 
 ## Interacting with the Contract
 
